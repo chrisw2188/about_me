@@ -1,0 +1,23 @@
+body {
+background: royalblue;
+font-family: sans-serif;
+color: #C0C0C0;
+}
+
+
+h1 {
+font-style: bold;
+text-align: center;
+}
+
+p {
+font-style: italic;
+margin: 2% 5% 2% 5%;
+}
+
+li {
+  margin: 0 13% 0 13%;
+  display: inline;
+  align: right;
+}
+
